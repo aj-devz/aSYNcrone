@@ -12,7 +12,7 @@
 #include <signal.h>
 #include <time.h>
 #include "src/tanitim.c"
-#include "src/random-ip.c"
+#include <bits/types/struct_timespec.h>
 
 #define KRMZ   "\x1B[31m"
 #define YSL   "\x1B[32m"
